@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "bitcoin-up-or-down-on-march-15-noon",
+    "horizon_hours": 24,
+    "reason": "before_market_open"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-march-18",
+    "horizon_hours": 24,
+    "reason": "before_market_open"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-april-1",
+    "horizon_hours": 24,
+    "reason": "before_market_open"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-october-29",
+    "horizon_hours": 3,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-march-10",
+    "horizon_hours": 24,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-march-13-2026",
+    "horizon_hours": 24,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-march-13-2026",
+    "horizon_hours": 12,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-april-21-2026",
+    "horizon_hours": 24,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-3-2026",
+    "horizon_hours": 3,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-13-2026",
+    "horizon_hours": 24,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-16-2026",
+    "horizon_hours": 24,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-16-2026",
+    "horizon_hours": 12,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-16-2026",
+    "horizon_hours": 6,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-16-2026",
+    "horizon_hours": 3,
+    "reason": "stale_or_missing_market_price"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-16-2026",
+    "horizon_hours": 1,
+    "reason": "stale_or_missing_market_price"
+  }
+]

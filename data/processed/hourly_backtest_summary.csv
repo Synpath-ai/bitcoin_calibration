@@ -1,0 +1,4 @@
+model,scenario,n_signals,n_fills,fill_rate,gross_pnl,net_pnl,final_equity,note,strategy,n_unfilled,return_on_deployed_capital,total_return_on_initial_capital,max_drawdown,sharpe_per_trade,sharpe_sample_size_warning,hit_rate,avg_gross_edge,avg_net_expected_edge,total_fees,total_slippage_cost_est,turnover,avg_position_size,avg_holding_period_hours
+raw_probability,live,0,0,0.0,0.0,0.0,100000.0,no trades executed,raw_probability_strategy,,,,,,,,,,,,,,
+logistic_calibration,live,0,0,0.0,0.0,0.0,100000.0,no trades executed,calibration_only_strategy,,,,,,,,,,,,,,
+full_feature_model,live,650,650,1.0,44980.52506885338,44980.52506885338,144980.52506885075,,full_feature_strategy,0.0,0.07789324379250684,0.4498052506885075,0.07505300886395137,0.07633443632841001,False,0.6138461538461538,0.07428416203495256,0.06282739287407467,0.0,6616.62976937187,577463.7552477999,888.4057773043075,0.5997948717948718

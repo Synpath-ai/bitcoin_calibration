@@ -1,0 +1,105 @@
+[
+  {
+    "id": "39245",
+    "slug": "bitcoin-up-or-down-on-august-25",
+    "title": "Bitcoin Up or Down on August 25?",
+    "startDate": "2025-08-22T11:14:36.922366Z",
+    "endDate": "2025-08-25T16:00:00Z",
+    "markets": [
+      {
+        "id": "579869",
+        "question": "Bitcoin Up or Down on August 25?",
+        "conditionId": "0xb9240ec648c0bbb196e1610ee40cf2dc8dacbf8b0ad1d0720cc1672706940570",
+        "slug": "bitcoin-up-or-down-on-august-25",
+        "description": "This market will resolve to \"Up\" if the \"Close\" price for the Binance 1 minute candle for BTC/USDT 24 Aug '25 12:00 in the ET timezone (noon) is lower than the final \"Close\" price for the 25 Aug '25 12:00 ET candle.",
+        "startDate": "2025-08-22T11:14:36.922366Z",
+        "endDate": "2025-08-25T16:00:00Z",
+        "closed": true,
+        "active": true,
+        "outcomes": "[\"Up\", \"Down\"]",
+        "outcomePrices": "[\"0\", \"1\"]",
+        "clobTokenIds": "[\"85182536029142956407125981842930272451094752721098135075696771117640291007342\", \"77343707451894550170573769242198292148196500016683812647067410493737817604258\"]",
+        "conditionId": "0xb9240ec648c0bbb196e1610ee40cf2dc8dacbf8b0ad1d0720cc1672706940570",
+        "volumeNum": 502743.365941,
+        "liquidityNum": 0,
+        "resolutionSource": "https://www.binance.com/en/trade/BTC_USDT"
+      }
+    ]
+  },
+  {
+    "id": "99001",
+    "slug": "bitcoin-up-or-down-on-may-27",
+    "title": "Bitcoin Up or Down on May 27?",
+    "startDate": "2025-05-23T10:00:00Z",
+    "endDate": "2025-05-27T12:00:00Z",
+    "markets": [
+      {
+        "id": "99001", "question": "Bitcoin Up or Down on May 27?",
+        "conditionId": "0xaaa1", "slug": "bitcoin-up-or-down-on-may-27",
+        "description": "This market will resolve to \"Up\" if the Binance close price is higher, based on the 1 minute candle.",
+        "startDate": "2025-05-23T10:00:00Z", "endDate": "2025-05-27T12:00:00Z",
+        "closed": true, "active": true,
+        "outcomes": "[\"Up\", \"Down\"]", "outcomePrices": "[\"1\", \"0\"]",
+        "clobTokenIds": "[\"111\", \"222\"]", "conditionId": "0xaaa1",
+        "volumeNum": 10000, "liquidityNum": 0, "resolutionSource": "binance"
+      }
+    ]
+  },
+  {
+    "id": "99002",
+    "slug": "will-bitcoin-hit-150k-in-2026",
+    "title": "Will Bitcoin hit $150k in 2026?",
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "markets": [
+      {
+        "id": "99002", "question": "Will Bitcoin hit $150k in 2026?",
+        "conditionId": "0xbbb1", "slug": "will-bitcoin-hit-150k-in-2026",
+        "description": "This market resolves Yes if BTC trades above $150,000 on any major exchange during 2026.",
+        "startDate": "2025-01-01T00:00:00Z", "endDate": "2026-12-31T00:00:00Z",
+        "closed": false, "active": true,
+        "outcomes": "[\"Yes\", \"No\"]", "outcomePrices": "[\"0.3\", \"0.7\"]",
+        "clobTokenIds": "[\"333\", \"444\"]", "conditionId": "0xbbb1",
+        "volumeNum": 500000, "liquidityNum": 0, "resolutionSource": "various exchanges"
+      }
+    ]
+  },
+  {
+    "id": "99003",
+    "slug": "bitcoin-up-or-down-on-june-11-847",
+    "title": "Bitcoin Up or Down on June 11?",
+    "startDate": "2025-06-08T10:00:00Z",
+    "endDate": "2025-06-11T12:00:00Z",
+    "markets": [
+      {
+        "id": "99003", "question": "Bitcoin Up or Down on June 11?",
+        "conditionId": "0xccc1", "slug": "bitcoin-up-or-down-on-june-11-847",
+        "description": "This market will resolve to \"Up\" if the Binance close price is higher, based on the 1 minute candle.",
+        "startDate": "2025-06-08T10:00:00Z", "endDate": "2025-06-11T12:00:00Z",
+        "closed": true, "active": true,
+        "outcomes": "[\"Up\", \"Down\"]", "outcomePrices": "[\"0\", \"1\"]",
+        "clobTokenIds": "[\"555\", \"666\"]", "conditionId": "0xccc1",
+        "volumeNum": 8000, "liquidityNum": 0, "resolutionSource": "binance"
+      }
+    ]
+  },
+  {
+    "id": "99004",
+    "slug": "bitcoin-up-or-down-on-ambiguous-day",
+    "title": "Bitcoin Up or Down on Ambiguous Day?",
+    "startDate": "2025-07-01T10:00:00Z",
+    "endDate": "2025-07-02T12:00:00Z",
+    "markets": [
+      {
+        "id": "99004", "question": "Bitcoin Up or Down on Ambiguous Day?",
+        "conditionId": "0xddd1", "slug": "bitcoin-up-or-down-on-ambiguous-day",
+        "description": "This market will resolve to \"Up\" if the Binance close price is higher, based on the 1 minute candle.",
+        "startDate": "2025-07-01T10:00:00Z", "endDate": "2025-07-02T12:00:00Z",
+        "closed": true, "active": true,
+        "outcomes": "[\"Up\", \"Down\"]", "outcomePrices": "[\"0.5\", \"0.5\"]",
+        "clobTokenIds": "[\"777\", \"888\"]", "conditionId": "0xddd1",
+        "volumeNum": 3000, "liquidityNum": 0, "resolutionSource": "binance"
+      }
+    ]
+  }
+]

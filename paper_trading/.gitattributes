@@ -1,0 +1,7 @@
+# These logs are append-only: every run adds lines at the end and never edits
+# existing ones. Two check-in runs finishing close together therefore both
+# append at the same position, which git's default merge treats as a conflict
+# (this broke a run on 2026-08-27). The built-in `union` merge driver keeps
+# BOTH sides' lines instead of conflicting, which is exactly the desired
+# semantics for an append-only log.
+*.jsonl merge=union

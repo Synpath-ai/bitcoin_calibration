@@ -1,0 +1,747 @@
+{
+  "n_test_markets_used": 1851,
+  "n_test_markets_skipped": 148,
+  "skipped": [
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-6am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-7am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-8am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-9am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-10am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-11am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-12pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-1pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-2pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-3pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-4pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-5pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-6pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-7pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-8pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-9pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-10pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-4-2026-11pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-12am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-1am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-6am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-7am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-8am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-9am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-10am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-11am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-12pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-1pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-2pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-3pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-4pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-5pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-6pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-7pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-8pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-9pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-10pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-5-2026-11pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-12am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-1am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 1
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 2
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 3
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-6am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 4
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-7am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 5
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-8am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 6
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-9am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 7
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-10am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 8
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-11am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 9
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-12pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 10
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-1pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 11
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-2pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 12
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-3pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 13
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-4pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 14
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-5pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 15
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-6pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 16
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-7pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 17
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-8pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 18
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-9pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 19
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-10pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 20
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-6-2026-11pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 21
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-12am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 22
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-1am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 23
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 24
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 25
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 26
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 27
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-6am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 28
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-7am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 29
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-8am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 30
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-9am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 31
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-10am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 32
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-11am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 33
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-12pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 34
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-1pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 35
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-2pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 36
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-3pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 37
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-4pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 38
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-5pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 39
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-6pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 40
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-7pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 41
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-8pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 42
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-9pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 43
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-10pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 44
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-7-2026-11pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 45
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-12am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 46
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-1am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 47
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 48
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 49
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 50
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 51
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-6am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 52
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-7am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 53
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-8am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 54
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-9am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 55
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-10am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 56
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-11am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 57
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-12pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 58
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-1pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 59
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-2pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 60
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-3pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 61
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-4pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 62
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-5pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 63
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-6pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 64
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-7pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 65
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-8pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 66
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-9pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 67
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-10pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 68
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-8-2026-11pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 69
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-12am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 70
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-1am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 71
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 72
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 73
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 74
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 75
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-6am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 76
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-7am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 77
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-8am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 78
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-9am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 79
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-10am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 80
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-11am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 81
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-12pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 82
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-1pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 83
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-2pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 84
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-3pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 85
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-4pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 86
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-5pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 87
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-6pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 88
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-7pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 89
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-8pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 90
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-9pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 91
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-10pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 92
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-9-2026-11pm-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 93
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-10-2026-12am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 94
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-10-2026-1am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 95
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-10-2026-2am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 96
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-10-2026-3am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 97
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-10-2026-4am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 98
+    },
+    {
+      "slug": "bitcoin-up-or-down-june-10-2026-5am-et",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 99
+    }
+  ],
+  "min_train_markets": 100
+}

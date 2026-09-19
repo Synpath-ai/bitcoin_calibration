@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "bitcoin-up-or-down-on-may-27",
+    "event_id": "25078",
+    "reason": "duration_out_of_range",
+    "detail": "99.4h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-may-29-342",
+    "event_id": "25286",
+    "reason": "slug_pattern_mismatch",
+    "detail": "bitcoin-up-or-down-on-may-29-342"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-3",
+    "event_id": "25525",
+    "reason": "duration_out_of_range",
+    "detail": "99.3h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-6-952",
+    "event_id": "25854",
+    "reason": "slug_pattern_mismatch",
+    "detail": "bitcoin-up-or-down-on-june-6-952"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-10",
+    "event_id": "26142",
+    "reason": "duration_out_of_range",
+    "detail": "102.6h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-11-847",
+    "event_id": "26344",
+    "reason": "slug_pattern_mismatch",
+    "detail": "bitcoin-up-or-down-on-june-11-847"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-17",
+    "event_id": "26933",
+    "reason": "duration_out_of_range",
+    "detail": "102.5h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-24",
+    "event_id": "27901",
+    "reason": "duration_out_of_range",
+    "detail": "96.8h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-1",
+    "event_id": "29063",
+    "reason": "duration_out_of_range",
+    "detail": "100.0h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-3-473",
+    "event_id": "30424",
+    "reason": "slug_pattern_mismatch",
+    "detail": "bitcoin-up-or-down-on-july-3-473"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-8",
+    "event_id": "30860",
+    "reason": "duration_out_of_range",
+    "detail": "99.9h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-15",
+    "event_id": "31947",
+    "reason": "duration_out_of_range",
+    "detail": "102.9h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-22",
+    "event_id": "32972",
+    "reason": "duration_out_of_range",
+    "detail": "103.3h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-july-29",
+    "event_id": "34067",
+    "reason": "duration_out_of_range",
+    "detail": "102.6h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-5",
+    "event_id": "35131",
+    "reason": "duration_out_of_range",
+    "detail": "103.1h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-12",
+    "event_id": "36362",
+    "reason": "duration_out_of_range",
+    "detail": "102.1h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-19",
+    "event_id": "37647",
+    "reason": "duration_out_of_range",
+    "detail": "103.2h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-26",
+    "event_id": "39252",
+    "reason": "duration_out_of_range",
+    "detail": "100.8h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-september-2",
+    "event_id": "40657",
+    "reason": "duration_out_of_range",
+    "detail": "97.8h"
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-september-9",
+    "event_id": "42222",
+    "reason": "duration_out_of_range",
+    "detail": "100.9h"
+  }
+]

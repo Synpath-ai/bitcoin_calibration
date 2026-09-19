@@ -1,0 +1,162 @@
+{
+  "n_test_markets_used": 475,
+  "n_test_markets_skipped": 31,
+  "skipped": [
+    {
+      "slug": "bitcoin-up-or-down-on-march-15-noon",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-17",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-16",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 0
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-18",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 3
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-19",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 3
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-20",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 4
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-21",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 5
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-22",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 6
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-23",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 7
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-24",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 7
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-25",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 7
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-26",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 10
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-27",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 11
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-28",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 12
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-29",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 13
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-march-30",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 14
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-1",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 16
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-2",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 16
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-3",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 17
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-4",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 18
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-5",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 19
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-7",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 20
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-8",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 20
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-6",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 20
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-9",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 23
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-10",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 24
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-11",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 25
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-12",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 26
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-13",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 27
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-14",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 27
+    },
+    {
+      "slug": "bitcoin-up-or-down-on-april-15",
+      "reason": "insufficient_history",
+      "n_train_markets_available": 27
+    }
+  ],
+  "min_train_markets": 30
+}
