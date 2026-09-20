@@ -14894,5 +14894,33 @@
     "liquidity": 0.0,
     "resolution_source": "https://www.binance.com/en/trade/BTC_USDT",
     "outcome_up": 1
+  },
+  {
+    "event_id": "1043508",
+    "market_id": "4689506",
+    "slug": "bitcoin-up-or-down-on-september-20-2026",
+    "question": "Bitcoin Up or Down on September 20?",
+    "condition_id": "0x6c3cd1ebcb0dd7584afebd486f98c2957a86eb786b6ae71c3c27e64eb3e31288",
+    "description": "This market will resolve to \"Up\" if the \"Close\" price for the Binance 1 minute candle for BTC/USDT Sep 19 '26 12:00 in the ET timezone (noon) is lower than the final \"Close\" price for the Sep 20 '26 12:00 ET candle.\n\nThis market will resolve to \"Down\" if the \"Close\" price for the Binance 1 minute candle for BTC/USDT Sep 19 '26 12:00 in the ET timezone (noon) is higher than the final \"Close\" price for the Sep 20 '26 12:00 ET candle.\n\nIf the final \"Close\" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.",
+    "start_date": "2026-09-18T16:07:13Z",
+    "end_date": "2026-09-20T16:00:00Z",
+    "closed": true,
+    "active": true,
+    "outcomes": [
+      "Up",
+      "Down"
+    ],
+    "outcome_prices": [
+      "0",
+      "1"
+    ],
+    "clob_token_ids": [
+      "77000913001596421533092826130547686125108595735288460407310406855818448852926",
+      "32068672888576566492689226989092540191087505380859808068706281692605603405308"
+    ],
+    "volume": 148035.64210099995,
+    "liquidity": 0.0,
+    "resolution_source": "https://www.binance.com/en/trade/BTC_USDT",
+    "outcome_up": 0
   }
 ]
