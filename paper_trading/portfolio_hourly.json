@@ -1,20 +1,8 @@
 {
-  "cash": 90726.79767980408,
-  "equity": 92304.03556710407,
+  "cash": 91422.51043166674,
+  "equity": 92415.67043166675,
   "peak_equity": 101878.73257006996,
   "open_positions": {
-    "bitcoin-up-or-down-september-20-2026-12pm-et": {
-      "slug": "bitcoin-up-or-down-september-20-2026-12pm-et",
-      "side": "buy_yes",
-      "stake": 584.0778873,
-      "buy_price": 0.8395388552764343,
-      "n_contracts": 695.7127518626653,
-      "opened_at": "2026-09-20T16:12:20.263016+00:00",
-      "resolves_at": "2026-09-20T17:00:00+00:00",
-      "horizon_hours": 0.75,
-      "entry_edge": 0.04592875902298643,
-      "touch_price": 0.83
-    },
     "bitcoin-up-or-down-september-20-2026-1pm-et": {
       "slug": "bitcoin-up-or-down-september-20-2026-1pm-et",
       "side": "buy_no",
