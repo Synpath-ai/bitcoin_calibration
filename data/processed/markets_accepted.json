@@ -14918,9 +14918,37 @@
       "77000913001596421533092826130547686125108595735288460407310406855818448852926",
       "32068672888576566492689226989092540191087505380859808068706281692605603405308"
     ],
-    "volume": 148035.64210099995,
+    "volume": 148035.642101,
     "liquidity": 0.0,
     "resolution_source": "https://www.binance.com/en/trade/BTC_USDT",
     "outcome_up": 0
+  },
+  {
+    "event_id": "1048421",
+    "market_id": "4727187",
+    "slug": "bitcoin-up-or-down-on-september-21-2026",
+    "question": "Bitcoin Up or Down on September 21?",
+    "condition_id": "0x523f40dfd86c59acd831164bd718cebdab44718dc23e2a6aaee52e523310b409",
+    "description": "This market will resolve to \"Up\" if the \"Close\" price for the Binance 1 minute candle for BTC/USDT Sep 20 '26 12:00 in the ET timezone (noon) is lower than the final \"Close\" price for the Sep 21 '26 12:00 ET candle.\n\nThis market will resolve to \"Down\" if the \"Close\" price for the Binance 1 minute candle for BTC/USDT Sep 20 '26 12:00 in the ET timezone (noon) is higher than the final \"Close\" price for the Sep 21 '26 12:00 ET candle.\n\nIf the final \"Close\" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.",
+    "start_date": "2026-09-19T16:07:09Z",
+    "end_date": "2026-09-21T16:00:00Z",
+    "closed": true,
+    "active": true,
+    "outcomes": [
+      "Up",
+      "Down"
+    ],
+    "outcome_prices": [
+      "1",
+      "0"
+    ],
+    "clob_token_ids": [
+      "103903481468340209719623310219872413192959928022717242017257662199168888240735",
+      "85659990392820170657741844406068703957889538013209446240240749810076645539603"
+    ],
+    "volume": 123778.39525200005,
+    "liquidity": 0.0,
+    "resolution_source": "https://www.binance.com/en/trade/BTC_USDT",
+    "outcome_up": 1
   }
 ]
