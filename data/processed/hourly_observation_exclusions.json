@@ -68,20 +68,5 @@
     "slug": "bitcoin-up-or-down-july-10-2026-6pm-et",
     "horizon_hours": 0.25,
     "reason": "stale_or_missing_market_price"
-  },
-  {
-    "slug": "bitcoin-up-or-down-july-1-2026-12am-et",
-    "horizon_hours": 0.75,
-    "reason": "stale_or_missing_market_price"
-  },
-  {
-    "slug": "bitcoin-up-or-down-july-1-2026-12am-et",
-    "horizon_hours": 0.5,
-    "reason": "stale_or_missing_market_price"
-  },
-  {
-    "slug": "bitcoin-up-or-down-july-1-2026-12am-et",
-    "horizon_hours": 0.25,
-    "reason": "stale_or_missing_market_price"
   }
 ]
